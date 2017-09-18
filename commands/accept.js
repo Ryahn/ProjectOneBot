@@ -17,6 +17,6 @@ exports.conf = {
 
 exports.help = {
     name: 'accept',
-    description: 'Ping/Pong command. I wonder what this does? /sarcasm',
+    description: 'Used to be accepted to the server',
     usage: 'accept'
 };
